@@ -4,7 +4,8 @@ This repository is related to our work to identify the relation between Arabic f
 
 tweets dataset:
   https://www.researchgate.net/publication/333402849_dayByday_tweets
- cleaned tweets text:
+
+cleaned tweets text:
   https://www.researchgate.net/publication/333402582_cleaned_tweets
   
   
