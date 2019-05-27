@@ -2,6 +2,12 @@
 
 This repository is related to our work to identify the relation between Arabic financial-related tweets and the change in stock markets using a set of the most active Arab stock indices. 
 
+tweets dataset:
+  https://www.researchgate.net/publication/333402849_dayByday_tweets
+ cleaned tweets text:
+  https://www.researchgate.net/publication/333402582_cleaned_tweets
+  
+  
 Please, cite the following paper if you utilize the resources in this project:
 
 - AlKhatib Khalid, Abdullateef Rabab’ah, Mahmoud Al-Ayyoub, and Yaser Jararweh. "On the use of arabic tweets to predict stock market  changes in the arab world." International Journal of Advanced Computer Science and Applications (IJACSA) 7, no. 5 (2016): 560-566.
